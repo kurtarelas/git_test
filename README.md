@@ -1,0 +1,1 @@
+This is Kurt's first git project!
